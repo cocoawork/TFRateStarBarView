@@ -35,7 +35,7 @@
         self.view.addSubview(v3)
 ```
 * ### 点击设置评分功能
-  * 实现代理方法
+  * 实现 ``TFRateBarViewDelegate``
   * 在代理方法内设置评分
 ```
     func didSelectedRateBarView(_ rateBarView: TFRateBarView, atIndex index: Int) {
