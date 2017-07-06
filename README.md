@@ -1,6 +1,7 @@
 # 星星评分控件
 ![](https://github.com/cocoawork/TFReateStarBarView/raw/master/QQ20170706-092408.gif)  
-
+* ### 如何使用
+  添加 ``TFRateBarView`` 到你的工程
 * ### example 
 ```
         let v = TFRateBarView(frame: CGRect(x: 10, y: 100, width: 200, height: 30))
